@@ -1,0 +1,27 @@
+/* 
+    Document   : cssprivadareceptor
+    Created on : 16/10/2013, 13:28:11
+    Author     : Felipe
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#saudacao {
+    margin: 10px;
+}
+
+#pedidos {
+    margin: 10px;
+}
+
+#chat {
+    position: fixed;
+    right: 14px;
+    top: 15px;
+}
+

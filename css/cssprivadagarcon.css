@@ -1,0 +1,41 @@
+/* 
+    Document   : cssprivadagarcon
+    Created on : 17/10/2013, 09:38:33
+    Author     : Felipe
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+    width: 1040px;
+}
+
+#formPedido {
+    
+}
+
+#pedidosConfirmados {
+    padding-top: 20px;
+    
+}
+
+#formCadastrarCliente {
+/*    position: fixed;
+    top: 10px;
+    left: 410px;*/
+    
+}
+#formCadastrarCliente fieldset {
+    width: 210px;
+    height: 100px;
+    padding: 10px;
+}
+#formCadastrarCliente input[type=text] {
+    width: 150px;
+}
+
+#chat {
+/*    position: fixed;
+    right: 14px;
+    top: 15px;*/
+}
